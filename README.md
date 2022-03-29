@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**paulocampez/paulocampez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Sao Paulo, Brazil.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Sunalizer Brazil](https://sunalizer.com.br/) & [Sunalizer Spain](https://sunalizer.es/) website;
+
+##### BIO
+
+- 🏢 I'm currently working at **Sunalizer Brazil / Sunalizer Spain**
+- ⚙️ I use daily: `.cs`, `.js`, `.cshtml`, `.css`, `.psd`
+- 🌱 Learning all about **Aws Services / Code Patterns / Code Architecture**
+- 💬 Ping me about **development**, **design thinking**
+- 📫 Reach me: [linkedin/in/paulocampez](https://www.linkedin.com/in/paulocampez/)
+- ⚡️ Fun fact: I love listening to music and making crafts. i recently bought two 3d printers and i'm venturing out building models and armors
