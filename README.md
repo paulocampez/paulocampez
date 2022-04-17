@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Sao Paulo, Brazil.
+#### I'm a DevOps Engineer working in Sao Paulo, Brazil.
 
 ##### NOW
 
