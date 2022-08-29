@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Sunalizer Brazil / Sunalizer Spain**
+- 🏢 I'm currently working at **Ilegra / Thomson Reuters**
 - ⚙️ I use daily: `.cs`, `.js`, `.cshtml`, `.css`, `.psd`
 - 🌱 Learning all about **Aws Services / Code Patterns / Code Architecture**
 - 💬 Ping me about **development**, **design thinking**
