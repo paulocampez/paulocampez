@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Sunalizer Brazil](https://sunalizer.com.br/) & [Sunalizer Spain](https://sunalizer.es/) website & apis;
+- ✨ Crafted last [Sunalizer Brazil](https://sunalizer.com.br/) & [Sunalizer Spain](https://sunalizer.es/) website & architecture design;
 
 ##### BIO
 
