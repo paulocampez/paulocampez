@@ -9,8 +9,8 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Ilegra / Thomson Reuters**
-- ⚙️ I use daily: `.cs`, `.js`, `.cshtml`, `.css`, `.psd`, `.ts`
-- 🌱 Learning all about **Aws Services / Code Patterns / Code Architecture**
-- 💬 Ping me about **development**, **design thinking**
+- ⚙️ I use daily: `.cs`, `.js`, `.py`, `.ts`, `.gcode`, `.json`,  `.yml`, `dokerfile`, `.sh`
+- 🌱 Learning all about **Aws Services / Code Patterns / Code Architecture / IaC **
+- 💬 Ping me about **development**, **design thinking**, **3d printing**, 
 - 📫 Reach me: [linkedin/in/paulocampez](https://www.linkedin.com/in/paulocampez/)
-- ⚡️ Fun fact: I love listening to music and making crafts. i recently bought two 3d printers and i'm venturing out building models and armors
+- ⚡️ Fun fact: I love listening to music and making crafts. i recently bought three 3d printers and i'm venturing out building models and armors (geek stuff)
