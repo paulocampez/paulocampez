@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working with GTM Modernization at [Thomson Reuters](https://www.thomsonreuters.com/) as a DevOps;
+- ✨ Working with GTM Modernization at [Thomson Reuters](https://www.thomsonreuters.com/) as a Software Engenieer;
 
 ##### BEFORE
 
