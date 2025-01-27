@@ -5,10 +5,11 @@ https://www.linkedin.com/in/paulocampez/
 
 ##### NOW
 
-- ✨ Working with GTM Modernization at [Thomson Reuters](https://www.thomsonreuters.com/) as a Software Engenieer;
+- ✨ Working with Real Estate Sstandards Organizations API at [Modern.Tech](https://www.modern.tech/) as a Software Engenieer;
 
 ##### BEFORE
 
+- ✨ Working with GTM Modernization at [Thomson Reuters](https://www.thomsonreuters.com/) as a Software Engenieer;
 - ✨ Crafted last [Sunalizer Brazil](https://sunalizer.com.br/) & [Sunalizer Spain](https://sunalizer.es/) website & architecture design;
 
 ##### BIO
