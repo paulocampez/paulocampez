@@ -5,7 +5,7 @@ https://www.linkedin.com/in/paulocampez/
 
 ##### NOW
 
-- ✨ Working with Real Estate Sstandards Organizations API at [Modern.Tech](https://www.modern.tech/) as a Software Engenieer;
+- ✨ Working with Real Estate Standards Organizations API at [Modern.Tech](https://www.modern.tech/) as a Software Engenieer;
 
 ##### BEFORE
 
@@ -14,7 +14,6 @@ https://www.linkedin.com/in/paulocampez/
 
 ##### BIO
 
-- 🏢 I'm currently working at **Ilegra / Thomson Reuters**
 - ⚙️ I use daily: `.cs`, `.js`, `.ts`, `.gcode`, `.json`,  `.yml`, `dockerfile`, `.sh`
 - 🌱 Learning all about **AI**
 - 💬 Ping me about **development**, **design thinking**, **3d printing**
